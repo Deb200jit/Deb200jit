@@ -1,7 +1,7 @@
 ![logo](https://camo.githubusercontent.com/d4d171e3f6e6b87b7dc426c9deefd5f00f2d6fc48e4af63763709fd997bf64b2/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f353932373931312e676966)
 <h1 align="center">Hi 👋, I'm Debjit Bera</h1>
 <h3 align="center"> I'm a self-motivated and creative individual with a variety of skills and great passion for coding</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb200jit&label=Profile%20views&color=0e75b6&style=flat" alt="deb200jit" /> </p>
 
