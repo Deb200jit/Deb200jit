@@ -1,7 +1,7 @@
 ![logo](https://github.com/Deb200jit/Deb200jit/blob/main/Git%20hub%20Banner-min.png)
 <h1 align="center">Hi 👋, I'm Debjit Bera</h1>
 <h3 align="center"> I'm a self-motivated and creative individual with a variety of skills and great passion for coding</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb200jit&label=Profile%20views&color=0e75b6&style=flat" alt="deb200jit" /> </p>
 
