@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/d4d171e3f6e6b87b7dc426c9deefd5f00f2d6fc48e4af63763709fd997bf64b2/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f353932373931312e676966)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAlexcj10%2FAlexcj10&psig=AOvVaw37WV1KznReZq7NItHAV2fh&ust=1725832890553000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCR7dTqsYgDFQAAAAAdAAAAABAQ)
 <h1 align="center">Hi 👋, I'm Debjit Bera</h1>
 <h3 align="center"> I'm a self-motivated and creative individual with a variety of skills and great passion for coding</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
